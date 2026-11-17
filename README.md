@@ -13,35 +13,53 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+step 1:
+1. open the new file to create new sketch.
+2. select the the front side to create.
+3. Draw a circle of 40mm.
+4. <img width="1920" height="1080" alt="Screenshot 2026-11-16 201520" src="https://github.com/user-attachments/assets/7aef5c1c-b762-4abb-9b1c-67476a2b5e75" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+step 2:
+1. Then draw a small circle on the circumference of the circle of 12mm.
+2. then select one of that circle and give circular pattern to mirror it.
+3. <img width="1920" height="1080" alt="Screenshot 2026-11-16 203451" src="https://github.com/user-attachments/assets/848535f8-ec2a-468f-8315-14be098334e4" />
+4. Trim all the unwanted parts. 
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+step 3:
+1. From the centre of the circle draw a line to 65mm and draw a circle there of 32mm and 20mm.
+2. From the centre of the circle draw a line to 50mm and draw a circle there of 10mm and 20mm.
+3. And draw a circle again of 20mm and 14mm.
+4. <img width="1920" height="1080" alt="Screenshot 2026-11-16 205617" src="https://github.com/user-attachments/assets/54ae1880-41ba-428a-a435-e6149a38987a" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+step 4:
+1. Draw a circle of 128mm to make a tangent of it.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 205805" src="https://github.com/user-attachments/assets/9a269c2a-211c-424a-ba87-92b85187cb8c" />
+3. trim the unwamted curves.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+step 5:
+1.Again draw a circle of 40mm and tangent it and trim the unwanted parts.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 210028" src="https://github.com/user-attachments/assets/725c595f-5df1-4d13-8dcc-9e06e4ea7909" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
+step 6:
+1. From the centre of the circle draw a line 50mm and a cirlce of 10mm and 20mm.
+2. And then draw a circle of 20mm and 40mm then tangent it with these circles.
+3. <img width="1920" height="1080" alt="Screenshot 2026-11-16 211845" src="https://github.com/user-attachments/assets/bf021267-94f5-44c0-af23-2dbeddaaedfa" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
+step 7:
+1. Then mirror it on the other side.
+2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 211954" src="https://github.com/user-attachments/assets/4acd6709-6378-4a61-9ebb-866a7f097952" />
+3. Then it becomes a full complete drawing.
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
-
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
-
+<img width="1920" height="1080" alt="Screenshot 2026-11-16 212339" src="https://github.com/user-attachments/assets/031a89ee-13ac-4be4-983b-f1d30766c837" />
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+ <img width="1920" height="1080" alt="Screenshot 2026-11-16 213816" src="https://github.com/user-attachments/assets/ac7a93d8-3cb5-488b-bea8-fb334dca43dd" />
+
+ <img width="915" height="645" alt="Screenshot 2026-11-17 190717" src="https://github.com/user-attachments/assets/622e5352-a03a-454e-870d-2c006b089a00" />
 
 
 ## RESULT
