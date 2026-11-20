@@ -13,45 +13,56 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-step 1:
+## STEP 1:
 1. open the new file to create new sketch.
 2. select the the front side to create.
 3. Draw a circle of 40mm.
-4. <img width="1920" height="1080" alt="Screenshot 2026-11-16 201520" src="https://github.com/user-attachments/assets/7aef5c1c-b762-4abb-9b1c-67476a2b5e75" />
 
-step 2:
+<img width="1095" height="510" alt="Screenshot 2026-11-20 184003" src="https://github.com/user-attachments/assets/52fe3327-2b5b-4f3d-8534-548282b4ce79" />
+
+## STEP 2:
+
 1. Then draw a small circle on the circumference of the circle of 12mm.
 2. then select one of that circle and give circular pattern to mirror it.
-3. <img width="1920" height="1080" alt="Screenshot 2026-11-16 203451" src="https://github.com/user-attachments/assets/848535f8-ec2a-468f-8315-14be098334e4" />
-4. Trim all the unwanted parts. 
+   
+<img width="1227" height="567" alt="Screenshot 2026-11-20 182029" src="https://github.com/user-attachments/assets/ed27f2e7-1b50-4520-9ce6-53cb26eb183b" />
 
-step 3:
+3. Trim all the unwanted parts. 
+
+## STEP 3:
+
 1. From the centre of the circle draw a line to 65mm and draw a circle there of 32mm and 20mm.
 2. From the centre of the circle draw a line to 50mm and draw a circle there of 10mm and 20mm.
 3. And draw a circle again of 20mm and 14mm.
-4. <img width="1920" height="1080" alt="Screenshot 2026-11-16 205617" src="https://github.com/user-attachments/assets/54ae1880-41ba-428a-a435-e6149a38987a" />
 
-step 4:
+<img width="1222" height="562" alt="Screenshot 2026-11-20 182048" src="https://github.com/user-attachments/assets/66bcb746-3448-480a-953f-7f986c80e0b9" />
+
+## STEP 4:
 1. Draw a circle of 128mm to make a tangent of it.
-2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 205805" src="https://github.com/user-attachments/assets/9a269c2a-211c-424a-ba87-92b85187cb8c" />
-3. trim the unwamted curves.
 
-step 5:
+<img width="1226" height="562" alt="Screenshot 2026-11-20 182106" src="https://github.com/user-attachments/assets/46c36961-51f0-4895-860d-3b47a18ba2ed" />
+
+2. trim the unwamted curves.
+
+## STEP 5:
 1.Again draw a circle of 40mm and tangent it and trim the unwanted parts.
-2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 210028" src="https://github.com/user-attachments/assets/725c595f-5df1-4d13-8dcc-9e06e4ea7909" />
 
-step 6:
+<img width="1263" height="588" alt="Screenshot 2026-11-20 182127" src="https://github.com/user-attachments/assets/b7e09583-3860-4585-8727-7c2730e0b53b" />
+
+## STEP 6:
 1. From the centre of the circle draw a line 50mm and a cirlce of 10mm and 20mm.
 2. And then draw a circle of 20mm and 40mm then tangent it with these circles.
-3. <img width="1920" height="1080" alt="Screenshot 2026-11-16 211845" src="https://github.com/user-attachments/assets/bf021267-94f5-44c0-af23-2dbeddaaedfa" />
 
+<img width="1215" height="575" alt="Screenshot 2026-11-20 182142" src="https://github.com/user-attachments/assets/86430b2b-42ee-4e50-a1d1-3288ce645c87" />
 
 step 7:
 1. Then mirror it on the other side.
-2. <img width="1920" height="1080" alt="Screenshot 2026-11-16 211954" src="https://github.com/user-attachments/assets/4acd6709-6378-4a61-9ebb-866a7f097952" />
-3. Then it becomes a full complete drawing.
+   
+<img width="1222" height="560" alt="Screenshot 2026-11-20 182227" src="https://github.com/user-attachments/assets/63b16016-a2d1-487c-943a-302386c8d344" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-11-16 212339" src="https://github.com/user-attachments/assets/031a89ee-13ac-4be4-983b-f1d30766c837" />
+2. Then it becomes a full complete drawing.
+
+<img width="1263" height="585" alt="Screenshot 2026-11-20 182256" src="https://github.com/user-attachments/assets/40da3881-f5f7-4f8d-b4b8-d8b27497db45" />
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
